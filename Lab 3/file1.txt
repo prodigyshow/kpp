@@ -1,0 +1,8 @@
+String. Very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long very long line.
+Речення кирилецею.
+String with question?
+Речення зі шляхом C:\Users\maxty .
+Запитальне речення?
+C:\Users\maxty\AppData
+Very long string that is barely fitting in one line very long string that is barely fitting in one line very long string that is barely fitting in one line.
+Very long string that is not fitting in one line very long string that is not fitting in one line very long string that is not fitting in one line very long string that not fitting.

@@ -1,0 +1,6 @@
+Short string. 
+Short string with question mark? 
+Very long string that is not fitting in one line very long string that is not fitting in one line very long string that is not fitting in one line very long string that is not fitting in one line very long string that is not fitting in one line.
+Very long string that is barely fitting in one line very long string that is barely fitting in one line very long string that is barely fitting in one line?
+Very long string that is not fitting in one line very long string that is not fitting in one line very long string that is not fitting in one line very long string that not fitting.
+Another one question at the end of file?
